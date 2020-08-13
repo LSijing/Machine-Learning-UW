@@ -1,3 +1,3 @@
 ## Classicification
 
-* `w1-logistic-regression` logistic regression, comparing with majority classifier
+* `w1-logistic-regression` linear classifiers, comparing with majority classifier
